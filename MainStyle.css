@@ -49,3 +49,10 @@ header .highlight, header .current a {
 .content img {
     max-width: 100%;
 }
+
+#HelpEx{
+    width: 46%;
+}
+#Jooks{
+    width: 55%;
+}
